@@ -7,6 +7,7 @@ An interactive word-guessing puzzle game — built with TypeScript and powered b
 🔗 **Live demo:** https://word-guess-master.vercel.app
 
 ---
+<img width="1410" height="744" alt="word guess master" src="https://github.com/user-attachments/assets/68ef5820-ec47-478a-bd82-333af7df2ca4" />
 
 ## ✨ What it does
 
